@@ -1,4 +1,4 @@
-ijapesigan/dynr-rocker-sys
+ijapesigan/dynr-rocker-cran1
 ================
 Ivan Jacob Agaloos Pesigan
 2025-08-23
@@ -8,9 +8,9 @@ Ivan Jacob Agaloos Pesigan
 <!-- badges: start -->
 
 [![Make
-Project](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/make.yml)
+Project](https://github.com/ijapesigan/docker-dynr-rocker-cran1/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-cran1/actions/workflows/make.yml)
 [![Docker Build and Push
-\[amd64/arm64\]](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-build-push-multi.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-build-push-multi.yml)
+\[amd64/arm64\]](https://github.com/ijapesigan/docker-dynr-rocker-cran1/actions/workflows/docker-build-push-multi.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-cran1/actions/workflows/docker-build-push-multi.yml)
 [![Shell
-Check](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/shellcheck.yml)
+Check](https://github.com/ijapesigan/docker-dynr-rocker-cran1/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-cran1/actions/workflows/shellcheck.yml)
 <!-- badges: end -->
