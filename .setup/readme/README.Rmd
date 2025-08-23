@@ -1,0 +1,23 @@
+---
+title: "ijapesigan/dynr-rocker-sys"
+author: "Ivan Jacob Agaloos Pesigan"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+<!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+<!-- badges: start -->
+[![Make Project](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/make.yml)
+[![Docker Build and Push [amd64/arm64]](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-apptainer-build-push-amd64-arm64.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-apptainer-build-push-amd64-arm64.yml)
+[![Shell Check](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/shellcheck.yml)
+<!-- badges: end -->

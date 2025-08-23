@@ -1,1 +1,16 @@
-## docker-dynr-rocker-sys
+ijapesigan/dynr-rocker-sys
+================
+Ivan Jacob Agaloos Pesigan
+2025-08-23
+
+<!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
+
+<!-- badges: start -->
+
+[![Make
+Project](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/make.yml)
+[![Docker Build and Push
+\[amd64/arm64\]](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-apptainer-build-push-amd64-arm64.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-apptainer-build-push-amd64-arm64.yml)
+[![Shell
+Check](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/shellcheck.yml)
+<!-- badges: end -->
