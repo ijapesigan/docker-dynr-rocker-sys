@@ -1,4 +1,4 @@
-FROM ijapesigan/dynr-rocker-cran1
+FROM ijapesigan/dynr-rocker-sys
 
 #ADD scripts /usr/src/local/src
 #RUN chmod 777 /usr/src/local/src/setup.sh && \
@@ -7,4 +7,4 @@ FROM ijapesigan/dynr-rocker-cran1
 #
 ## extra metadata
 #LABEL author="Ivan Jacob Agaloos Pesigan <learn.ijapesigan@gmail.com>"
-#LABEL description="ijapesigan/dynr-rocker-cran1 container."
+#LABEL description="ijapesigan/dynr-rocker-sys container."
