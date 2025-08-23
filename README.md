@@ -10,7 +10,7 @@ Ivan Jacob Agaloos Pesigan
 [![Make
 Project](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/make.yml)
 [![Docker Build and Push
-\[amd64/arm64\]](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-apptainer-build-push-amd64-arm64.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-apptainer-build-push-amd64-arm64.yml)
+\[amd64/arm64\]](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-build-push-multi.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/docker-build-push-multi.yml)
 [![Shell
 Check](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/docker-dynr-rocker-sys/actions/workflows/shellcheck.yml)
 <!-- badges: end -->
